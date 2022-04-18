@@ -30,7 +30,8 @@ ALLOWED_HOSTS = [
     'localhost',
     'https://bytewalk.herokuapp.com/',
     'https://bytewalk.me',
-    'http://bytewalk.me'
+    'http://bytewalk.me',
+    'https://movie.azurewebsites.net'
 ]
 
 
